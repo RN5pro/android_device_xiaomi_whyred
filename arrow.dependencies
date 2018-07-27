@@ -1,7 +1,7 @@
 [
   {
     "remote":      "github",
-    "repository":  "riyeshm321/kernel_xiaomi_sdm660",
+    "repository":  "riteshm321/kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660",
     "branch":      "arrow-8.x"
   },
