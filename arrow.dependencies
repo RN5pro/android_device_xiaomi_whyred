@@ -1,20 +1,18 @@
 [
   {
-    "remote":      "github",
-    "repository":  "riteshm321/kernel_xiaomi_sdm660",
-    "target_path": "kernel/xiaomi/sdm660",
-    "branch":      "arrow-8.x"
+    "repository": "android_kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/sdm660"
   },
   {
-    "remote":      "github",
-    "repository":  "riteshm321/vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch":      "arrow-8.x"
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
   },
   {
-     "remote":     "github",
-     "repository": "AOSiP/platform_prebuilts_clang_host_linux-x86",
-     "target_path":"prebuilts/clang/host/linux-x86",
-     "branch":     "oreo-mr1"
+    "repository": "android_vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi"
+  },
+  {
+    "repository": "prebuilts_clang_host_linux-x86_7.0-DragonTC",
+    "target_path": "prebuilts/clang/host/linux-x86/7.0-DragonTC"
   }
 ]
