@@ -1,24 +1,22 @@
 [
   {
-    "remote":      "github",
-    "repository":  "AOSiP-Devices/kernel_xiaomi_sdm660",
-    "target_path": "kernel/xiaomi/whyred",
-    "branch":      "oreo-mr1"
+    "repository":  "android_kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/sdm660",
+    "branch":      "arrow-9.x"
   },
   {
-    "repository":  "vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
+    "repository":  "android_vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred",
+    "branch":      "arrow-9.x"
   },
- {
-    "repository": "LineageOS/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-15.1",
-    "remote": "github"
+  {
+    "repository": "prebuilts_clang_host_linux-x86",
+    "target_path": "prebuilts/clang/host/linux-x86",
+    "branch": "arrow-9.x"
   },
- {
-    "repository": "taranhora/vendor_xiaomi_MiuiCamera",
+  {
+    "repository": "vendor_xiaomi_MiuiCamera",
     "target_path": "vendor/xiaomi/MiuiCamera",
-    "branch": "master",
-    "remote": "github"
+    "branch": "arrow-9.x"
   }
 ]
