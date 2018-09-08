@@ -8,10 +8,6 @@
     "target_path": "vendor/xiaomi/whyred"
   },
   {
-    "repository": "prebuilts_clang_host_linux-x86",
-    "target_path": "prebuilts/clang/host/linux-x86"
-  },
-  {
     "repository": "vendor_xiaomi_MiuiCamera",
     "target_path": "vendor/xiaomi/MiuiCamera"
   }
